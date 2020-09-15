@@ -6,6 +6,44 @@ background-size: 90%;
 
 }
 
+#flexy{
+  margin: auto;
+  width: 90%;
+  border: solid #425577;
+}
+
+.flexbox1{
+
+  display: flex;
+  background: #f9edb1;
+  align-items: center;
+  height: 100px;
+
+
+}
+
+.flexbox1 button{
+
+margin: 10px;
+
+
+}
+
+.contentsection{
+border: solid;
+margin: 10px;
+border: solid;
+    margin: 10px;
+    display: flex;
+    background: #f9edb1;
+
+}
+¨
+.contentsection p{
+  border: solid;
+  
+  }
+  
 
 #container {
   font-size: larger;
