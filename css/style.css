@@ -16,7 +16,7 @@ background-size: 90%;
   margin-top: 20px;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(4, 210px);
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   grid-template-areas:
         "header header header header header header header header header header header header"
         "box1 box1 box2 box2 box2 box2 box2 box2 box2 box2 box3 box3"
